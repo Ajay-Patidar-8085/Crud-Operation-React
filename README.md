@@ -73,10 +73,16 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # Crud-Operation-React
 Create, Update and Delete  Operation  with React Technologies.
 >>>>>>> origin/main
->>>>>>
->>>>>>![Screenshot_6-6-2024_203825_localhost](https://github.com/Ajay-Patidar-8085/Crud-Operation-React/assets/147160491/73917f5a-43e8-47ff-a29f-bebabf575462)
+
+
+
+![Screenshot_6-6-2024_203825_localhost](https://github.com/Ajay-Patidar-8085/Crud-Operation-React/assets/147160491/73917f5a-43e8-47ff-a29f-bebabf575462)
+
 
 ![Screenshot_6-6-2024_20408_localhost](https://github.com/Ajay-Patidar-8085/Crud-Operation-React/assets/147160491/df18ff27-6802-4271-8c0c-ca1491477874)
+
+
+
 ![Screenshot_6-6-2024_204039_localhost](https://github.com/Ajay-Patidar-8085/Crud-Operation-React/assets/147160491/85fd0fbe-ed7e-4fc8-ae31-6e6e12c57cb7)
 
 
