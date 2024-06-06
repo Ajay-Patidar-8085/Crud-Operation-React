@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Crud-Operation-React
 Create, Update and Delete  Operation  with React Technologies.
->>>>>>> origin/main
+ origin/main
 
 
 
@@ -84,6 +84,11 @@ Create, Update and Delete  Operation  with React Technologies.
 
 
 ![Screenshot_6-6-2024_204039_localhost](https://github.com/Ajay-Patidar-8085/Crud-Operation-React/assets/147160491/85fd0fbe-ed7e-4fc8-ae31-6e6e12c57cb7)
+
+
+
+![Screenshot 2024-06-06 204124](https://github.com/Ajay-Patidar-8085/Crud-Operation-React/assets/147160491/5abc976b-0719-4df0-8564-a414c9ceed29)
+
 
 
 
